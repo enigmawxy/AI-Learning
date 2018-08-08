@@ -55,8 +55,6 @@ Tensroflow练习
 [SeqGAN<br>](https://github.com/princewen/tensorflow_practice/tree/master/GAN/seqgan)
 
 <br>
-<br>
-<br>
 
 推荐阅读
 ==============
