@@ -1,7 +1,8 @@
 人工智能 基础
 ======
-
-[脑图<br>](https://github.com/enigmawxy/AI-Learning/blob/master/Python%E5%BA%93%E8%84%91%E5%9B%BE.html)
+![image](./images/2018-08-27%2013.09.20.png)
+<br/>
+[完整的请下载文件<br>](https://github.com/enigmawxy/AI-Learning/blob/master/Python%E5%BA%93%E8%84%91%E5%9B%BE.html)
 
 Python3 基础
 
