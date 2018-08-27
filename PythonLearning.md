@@ -1,9 +1,9 @@
-Python 基础
+人工智能 基础
 ======
 
-基于Python3
+[脑图<br>](https://github.com/enigmawxy/AI-Learning/blob/master/Python%E5%BA%93%E8%84%91%E5%9B%BE.html)
 
-目录
+Python3 基础
 
 1、Python基础<br>
 [Python核心编程(第3版)中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
