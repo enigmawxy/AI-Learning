@@ -6,20 +6,20 @@ Python 基础
 目录
 
 1、Python基础<br>
-[Python核心编程(第3版)中文版<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
-[Python数据科学手册中文版<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
-[Python数据科学手册英文版<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
-[利用Python进行数据分析-完整版<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
+[Python核心编程(第3版)中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[Python数据科学手册中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[Python数据科学手册英文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[利用Python进行数据分析-完整版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 <br>
 2、机器学习相关<br>
-[机器学习之路<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
-[机器学习实战(Peter Harrington-2013)<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
-[图解机器学习<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
-[周志华-机器学习<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
+[机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[机器学习实战(Peter Harrington-2013)<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[图解机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[周志华-机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 <br>
 3、深度学习相关<br>
-[深度学习(Deep Learning) Yoshua Bengio & Ian GoodFellow中文版<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
-[深度学习入门：基于Python的理论与实现<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
+[深度学习(Deep Learning) Yoshua Bengio & Ian GoodFellow中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[深度学习入门：基于Python的理论与实现<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 <br>
 
 微信关注二维码,回复 20180827 提取 <br/>
