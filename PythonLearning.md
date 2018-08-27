@@ -6,7 +6,6 @@ Python 基础
 目录
 
 1、Python基础<br>
-链接:https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA  密码:vxu8
 [Python核心编程(第3版)中文版<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
 [Python数据科学手册中文版<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
 [Python数据科学手册英文版<br>](https://pan.baidu.com/s/1sCffJgYUsU1RG25_pWW0cA)
