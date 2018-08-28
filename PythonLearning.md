@@ -15,7 +15,7 @@ Python3 基础
 2、机器学习相关<br>
 [机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 [机器学习实战(Peter Harrington-2013)<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
-[图解机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 日本人所著
+[图解机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 日本人所著<br/>
 [周志华-机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 南京大学教授著作，理论性强 <br/>
 <br>
 3、深度学习相关<br>
