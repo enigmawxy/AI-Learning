@@ -1,5 +1,7 @@
 人工智能 基础
 ======
+Python脑图<br/>
+
 ![image](./images/2018-08-27%2013.09.20.png)
 <br/>
 [完整的请下载文件<br>](https://github.com/enigmawxy/AI-Learning/blob/master/Python%E5%BA%93%E8%84%91%E5%9B%BE.html)
@@ -13,8 +15,8 @@ Python3 基础
 [利用Python进行数据分析-完整版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 <br>
 2、机器学习相关<br>
-[机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
-[机器学习实战(Peter Harrington-2013)<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 国内阿布等所著<br/>
+[机器学习实战<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 2003年Peter Harrington等所著<br/>
 [图解机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 日本人所著<br/>
 [周志华-机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 南京大学教授著作，理论性强 <br/>
 <br>
