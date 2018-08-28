@@ -19,8 +19,8 @@ Python3 基础
 [周志华-机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 <br>
 3、深度学习相关<br>
-[深度学习(Deep Learning) Yoshua Bengio & Ian GoodFellow中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
-[深度学习入门：基于Python的理论与实现<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[深度学习(Deep Learning) Ian GoodFellow中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 大神著作，理论性强
+[深度学习入门：基于Python的理论与实现<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 使用Python构建代码，未使用各种流行框架。
 <br>
 
 微信关注二维码,回复 20180827 提取 <br/>
