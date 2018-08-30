@@ -21,6 +21,8 @@ Python脑图<br/>
 - [利用Python进行数据分析-完整版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 
 2、机器学习相关<br>
+![image](./images/1-tEo4x2-2iOZcnhSF13rUTA(1).png)
+![image](./images/1-dYgEs2roROf3j2ANzkDHMA(1).png)
 - 国内阿布等所著 [机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) 
 - 2003年Peter Harrington等所著 [机器学习实战<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 - 日本人所著 [图解机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) 
