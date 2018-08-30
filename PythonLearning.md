@@ -15,16 +15,16 @@ Python脑图<br/>
 - [利用Python进行数据分析-完整版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 
 2、机器学习相关<br>
-- 国内阿布等所著 [机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
-- 2003年Peter Harrington等所著 [机器学习实战<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
-- 日本人所著 [图解机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
-- 南京大学教授著作，理论性强 [周志华-机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
-<br>
+- 国内阿布等所著 [机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) 
+- 2003年Peter Harrington等所著 [机器学习实战<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+- 日本人所著 [图解机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) 
+- 南京大学教授著作，理论性强 [周志华-机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+
 3、深度学习相关<br>
-- 大神著作，理论性强 [深度学习(Deep Learning) Ian GoodFellow中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)  <br/>
-- 使用Python构建代码，未使用各种流行框架 [神经网络与深度学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
-- 使用Python构建代码，未使用各种流行框架实现 [深度学习入门：基于Python的理论与实现<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)<br/>
-<br>
+- 大神著作，理论性强 [深度学习(Deep Learning) Ian GoodFellow中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) 
+- 使用Python构建代码，未使用各种流行框架 [神经网络与深度学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) 
+- 使用Python构建代码，未使用各种流行框架实现 [深度学习入门：基于Python的理论与实现<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+
 4、Tensorflow学习相关<br>
 - [21个项目玩转深度学习：基于Tensorflow的实践详解<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 - [Tensorflow实战-Google深度学习框架<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
