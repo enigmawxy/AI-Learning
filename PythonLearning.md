@@ -6,7 +6,7 @@ Python脑图<br/>
 <br/>
 [完整的请下载文件<br>](https://github.com/enigmawxy/AI-Learning/blob/master/Python%E5%BA%93%E8%84%91%E5%9B%BE.html)
 
-Python3 基础
+**学习路径：Python -> 数据科学 -> 机器学习 -> 深度学习 -> 深度学习框架
 
 1、Python基础<br>
 [Python核心编程(第3版)中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
@@ -25,7 +25,11 @@ Python3 基础
 [神经网络与深度学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 使用Python构建代码，未使用各种流行框架。<br/>
 [深度学习入门：基于Python的理论与实现<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 使用Python构建代码，未使用各种流行框架实现。
 <br>
+4、Tensorflow学习相关<br>
+[21个项目玩转深度学习：基于Tensorflow的实践详解<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
+[Tensorflow实战-Google深度学习框架<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 
+<br>
 微信关注二维码,回复 20180827 提取 <br/>
 <table>
     <tr>
