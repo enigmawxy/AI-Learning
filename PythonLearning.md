@@ -6,8 +6,11 @@ Python脑图<br/>
 <br/>
 [完整的请下载文件<br>](https://github.com/enigmawxy/AI-Learning/blob/master/Python%E5%BA%93%E8%84%91%E5%9B%BE.html)
 
-#### 完整的神经网络图
+#### 完整的神经网络
 ![image](./images/1-gccuMDV8fXjcvz1RSk4kgQ(1).png)
+
+#### 完整的神经网络图
+![image](./images/1-hdcEBE3zH8bRCj_gyIQC9Q(1).png)
 
 **学习路径：Python -> 数据科学 -> 机器学习 -> 深度学习 -> 深度学习框架**
 
