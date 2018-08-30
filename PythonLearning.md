@@ -13,7 +13,7 @@ Python脑图<br/>
 - [Python数据科学手册中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 - [Python数据科学手册英文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 - [利用Python进行数据分析-完整版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
-<br>
+
 2、机器学习相关<br>
 - 国内阿布等所著 [机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
 - 2003年Peter Harrington等所著 [机器学习实战<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
