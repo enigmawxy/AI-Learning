@@ -22,7 +22,7 @@ Python3 基础
 <br>
 3、深度学习相关<br>
 [深度学习(Deep Learning) Ian GoodFellow中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 大神著作，理论性强 <br/>
-[神经网络与深度学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 使用Python构建代码，未使用各种流行框架。
+[神经网络与深度学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 使用Python构建代码，未使用各种流行框架。<br/>
 [深度学习入门：基于Python的理论与实现<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 使用Python构建代码，未使用各种流行框架实现。
 <br>
 
