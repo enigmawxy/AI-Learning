@@ -15,10 +15,10 @@ Python脑图<br/>
 [利用Python进行数据分析-完整版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg)
 <br>
 2、机器学习相关<br>
-[机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 国内阿布等所著<br/>
-[机器学习实战<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 2003年Peter Harrington等所著<br/>
-[图解机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 日本人所著<br/>
-[周志华-机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 南京大学教授著作，理论性强 <br/>
+- 国内阿布等所著 [机器学习之路<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
+- 2003年Peter Harrington等所著 [机器学习实战<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
+- 日本人所著 [图解机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
+- 南京大学教授著作，理论性强 [周志华-机器学习<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) <br/>
 <br>
 3、深度学习相关<br>
 [深度学习(Deep Learning) Ian GoodFellow中文版<br>](https://pan.baidu.com/s/1bIij91zzuXyovTAO6yEbcg) - 大神著作，理论性强 <br/>
