@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c67296b5-ef4b-4a52-8fb7-224e2a92ac76" name="Default Changelist" comment="" />
+    <list default="true" id="c67296b5-ef4b-4a52-8fb7-224e2a92ac76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ml-roadmap.md" beforeDir="false" afterPath="$PROJECT_DIR$/ml-roadmap.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,13 +12,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonLearning.md">
+        <entry file="file://$PROJECT_DIR$/ml-roadmap.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="717">
-                <caret line="47" selection-start-line="47" selection-end-line="47" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="112">
+                <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,11 +43,13 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/PythonLearning.md" />
+        <option value="$PROJECT_DIR$/README1.md" />
+        <option value="$PROJECT_DIR$/ml-roadmap.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="43" />
+    <option name="x" value="198" />
     <option name="y" value="30" />
     <option name="width" value="1295" />
     <option name="height" value="766" />
@@ -61,11 +66,6 @@
             <path>
               <item name="AI-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="AI-Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AI-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AI-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AI-Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -116,6 +116,7 @@
       <option name="presentableId" value="Default" />
       <updated>1533698882573</updated>
       <workItem from="1552464278219" duration="48000" />
+      <workItem from="1555076531273" duration="857000" />
     </task>
     <task id="LOCAL-00001" summary="overall">
       <created>1533699317412</created>
@@ -247,12 +248,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48000" />
+    <option name="totallyTimeSpent" value="905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="30" width="1295" height="766" extended-state="0" />
+    <frame x="198" y="30" width="1295" height="766" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25219473" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.16201118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -266,7 +268,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.38863286" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.42857143" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -286,21 +288,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="python mind graph" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python库脑图.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/2018-08-27 13.09.20.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="464">
-            <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/1-dYgEs2roROf3j2ANzkDHMA(1).png">
       <provider selected="true" editor-type-id="images" />
@@ -314,11 +303,36 @@
     <entry file="file://$PROJECT_DIR$/images/1-tEo4x2-2iOZcnhSF13rUTA(1).png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python库脑图.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-932" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-862">
+            <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PythonLearning.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="717">
-            <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <first_editor relative-caret-position="210">
+            <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ml-roadmap.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="112">
+            <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>

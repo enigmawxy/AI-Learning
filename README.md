@@ -1,107 +1,169 @@
-Tensroflow练习
-======
 
-基于tf1.4
+[Flood Sung](https://github.com/floodsung/) 偏理论、高端
 
-目录
+[红色石头](https://github.com/RedstoneWill/Hands-On-Machine-Learning-with-Sklearn-TensorFlow) 有点杂
 
-1、基础<br>
-[基本语法<br>](https://github.com/princewen/tensorflow_practice/blob/master/basic/basic.py)
-[tensorBoard使用<br>](https://github.com/princewen/tensorflow_practice/blob/master/basic/tensorBoard.py)
-[dropout<br>](https://github.com/princewen/tensorflow_practice/blob/master/basic/dropout.py)
-[模型保存与重载<br>](https://github.com/princewen/tensorflow_practice/blob/master/basic/save2file.py)
-[基本神经网络<br>](https://github.com/princewen/tensorflow_practice/blob/master/basic/first_nerual_network.py)
-[卷积神经网络<br>](https://github.com/princewen/tensorflow_practice/blob/master/basic/CNN.py)
-<br>
-2、自然语言相关<br>
-[static_RNN<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/RNN_static_cell.py)
-[dynamic_RNN<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/RNN_dynamic_cell.py)
-[LSTM<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/LSTM.py)
-[LSTM_regression<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/LSTM_Regression.py)
-[seq2seq<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/basic_seq2seq.py)
-[seq2seq_attention<br>](https://github.com/princewen/tensorflow_practice/tree/master/nlp/chat_bot_seq2seq_attention)
-<br>
-3、强化学习相关<br>
-[Q-learning<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/my_q_learning_new)
-[SARSA<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/SARSA)
-[SARSA-lambda<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/sarsa_lambda)
-[DQN<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/DQN-demo)
-[Double DQN<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/Double-DQN-demo)
-[Dueling DQN<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/Dueling%20DQN%20Demo)
-[Prioritized Replay DQN<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/Prioritized_Replay_DQN_demo)
-[Policy Gradient<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/Basic-Policy-Network)
-[Actor-Critic<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/Basic-Actor-Critic)
-[DDPG<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/Basic-DDPG)
-[Pointer-Network<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/myPtrNetwork)
-[MADDPG<br>](https://github.com/princewen/tensorflow_practice/tree/master/RL/Basic-MADDPG-Demo)
-<br>
-4、推荐系统<br>
-[FM<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/recommendation-FM-demo)
-[FFM<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/recommendation-FFM-Demo)
-[DeepFM<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-DeepFM-model)
-[Deep Cross Network<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-DCN-Demo)
-[P NN<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-PNN-Demo)
-[NFM<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-NFM-Demo)
-[AFM<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-AFM-Demo)
-[MLR<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-MLR-Demo)
-[DIN<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-DIN-Demo)
-[Bandit<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-Bandit-Demo)
-[GBDT+LR<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/GBDT%2BLR-Demo)
-[evaluation-metrics<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-Evaluation-metrics)
-[NCF<br>](https://github.com/princewen/tensorflow_practice/tree/master/recommendation/Basic-NCF-Demo)
-<br>
-5、GAN<br>
-[Basic GAN<br>](https://github.com/princewen/tensorflow_practice/blob/master/GAN/GAN.py)
-[SeqGAN<br>](https://github.com/princewen/tensorflow_practice/tree/master/GAN/seqgan)
+[机器学习路线图](https://github.com/clone95/Virgilio) 偏工程实用
 
-<br>
+以下是最后一个的解读：
 
-推荐阅读
-==============
-1、基础<br>
-[TensorFlow基础知识点总结<br>](https://www.jianshu.com/p/ce213e6b2dc0)
-[用tensorboard来看看我们的网络流吧<br>](https://www.jianshu.com/p/41466470b347)
-[使用dropout来避免过拟合吧<br>](https://www.jianshu.com/p/4f1b525ddf86)
-[使用Tensorflow实现第一个神经网络吧！<br>](https://www.jianshu.com/p/596a30d46f34y)
-[实现CNN对mnist手写数字分类<br>](https://www.jianshu.com/p/49ab6568e472)
-<br>
-2、自然语言相关<br>
-[使用简单的RNN观测数字中的规律<br>](https://www.jianshu.com/p/3ccc1eb5fda2)
-[更进一步，使用LSTM实现对手写数字识别<br>](https://www.jianshu.com/p/d25baccde6bc)
-[简单的Seq2Seq实现作对联<br>](https://www.jianshu.com/p/83443b2baf27)
-[使用Seq2Seq+attention model实现简单的Chatbot<br>](https://www.jianshu.com/p/aab40f439012)
-<br>
-3、强化学习相关<br>
-[实战深度强化学习DQN-理论和实践<br>](https://www.jianshu.com/p/10930c371cac)
-[DQN三大改进(一)-Double DQN<br>](https://www.jianshu.com/p/fae51b5fe000)
-[DQN三大改进(二)-Prioritised replay<br>](https://www.jianshu.com/p/db14fdc67d2c)
-[DQN三大改进(三)-Dueling Network<br>](https://www.jianshu.com/p/b421c85796a2)
-[深度强化学习-Policy Gradient基本实现<br>](https://www.jianshu.com/p/2ccbab48414b)
-[深度强化学习-Actor-Critic算法原理和实现<br>](https://www.jianshu.com/p/6fe18d0d8822)
-[深度强化学习-DDPG算法原理和实现<br>](https://www.jianshu.com/p/6fe18d0d8822)
-[Pointer-network理论及tensorflow实战<br>](https://www.jianshu.com/p/2ad389e91467)
-[探秘多智能体强化学习-MADDPG算法原理及简单实现<br>](https://www.jianshu.com/p/4e4e35d80137)
-<br>
-4、推荐系统<br>
-[推荐系统遇上深度学习(一)--FM模型理论和实践<br>](https://www.jianshu.com/p/152ae633fb00)
-[推荐系统遇上深度学习(二)--FFM模型理论和实践<br>](https://www.jianshu.com/p/781cde3d5f3d)
-[推荐系统遇上深度学习(三)--DeepFM模型理论和实践<br>](https://www.jianshu.com/p/6f1c2643d31b)
-[推荐系统遇上深度学习(四)--多值离散特征的embedding解决方案<br>](https://www.jianshu.com/p/4a7525c018b2)
-[推荐系统遇上深度学习(五)--Deep&Cross Network模型理论和实践<br>](https://www.jianshu.com/p/77719fc252fa)
-[推荐系统遇上深度学习(六)--PNN模型理论和实践<br>](https://www.jianshu.com/p/be784ab4abc2)
-[推荐系统遇上深度学习(七)--NFM模型理论和实践<br>](https://www.jianshu.com/p/4e65723ee632)
-[推荐系统遇上深度学习(八)--AFM模型理论和实践<br>](https://www.jianshu.com/p/83d3b2a1e55d)
-[推荐系统遇上深度学习(九)--评价指标AUC原理及实践<br>](https://www.jianshu.com/p/4dde15a56d44)
-[推荐系统遇上深度学习(十)--GBDT+LR融合方案实战<br>](https://www.jianshu.com/p/96173f2c2fb4)
-[推荐系统遇上深度学习(十一)--神经协同过滤NCF原理及实战<br>](https://www.jianshu.com/p/6173dbde4f53)
-[推荐系统遇上深度学习(十二)--推荐系统中的EE问题及基本Bandit算法<br>](https://www.jianshu.com/p/95b2de50ce44)
-[推荐系统遇上深度学习(十三)--linUCB方法浅析及实现<br>](https://www.jianshu.com/p/e0e843d78e3c)
-[推荐系统遇上深度学习(十四)--《DRN:A Deep Reinforcement Learning Framework for News Recommendation》<br>](https://www.jianshu.com/p/c0384b213320)
-[推荐系统遇上深度学习(十五)--强化学习在京东推荐中的探索<br>](https://www.jianshu.com/p/b9113332e33e)
-[推荐系统遇上深度学习(十六)--详解推荐系统中的常用评测指标<br>](https://www.jianshu.com/p/665f9f168eff)
-[推荐系统遇上深度学习(十七)--探秘阿里之MLR算法浅析及实现<br>](https://www.jianshu.com/p/627fc0d755b2)
-[推荐系统遇上深度学习(十八)--探秘阿里之深度兴趣网络(DIN)浅析及实现<br>](https://www.jianshu.com/p/73b6f5d00f46)
-<br>
-5、GAN<br>
-[听说GAN很高大上，其实就这么简单<br>](https://www.jianshu.com/p/5f638f493b7a)
-[对抗思想与强化学习的碰撞-SeqGAN模型原理和代码解析<br>](https://www.jianshu.com/p/de4e913e0580)
+作者首先强烈推荐了《Scikit-Learn 与 TensorFlow 机器学习实用指南》一书。之外，他还上传了全球顶尖大学和开源组织的学习资源，并收集了理论和示例，以及对选择最佳资源的建议。
+
+内容主要分为四大部分：
+
+##### 一、先决条件
+* Python
+* Jupyter Notebook
+* 需要掌握的基本数学知识
+* 机器学习全貌
+
+##### 二、使如何使用 Scikit-Learn 进行机器学习
+* 为什么是 Scikit-Learn？
+* 端到端机器学习项目
+* 线性回归
+* 分类
+* 训练模型
+* 支持向量机
+* 决策树
+* 合奏学习和随机森林
+* 无监督学习
+* 结语和期待
+
+##### 三、通过 TensorFlow 训练的神经网络
+
+* 为何选择 TensorFlow？
+* 使用 TensorFlow
+* ANN - 人工神经网络
+* CNN - 卷积神经网络
+* RNN - 递归神经网络
+* 训练网络：最佳实践
+* 自动编码
+* 强化学习
+
+##### 四、工具
+
+* 机器学习项目
+* 数据科学工具
+* 博客 / YouTube 频道 / 网站
+
+每个标签下，作者都有详细的解释并给出了实战操作的资源，实乃良心之作！下面，就由营长来详细介绍下这个项目里有哪些值得一看的资源（并附上部分教程链接）。
+**一、先决条件**
+    **Python**
+基础知识：https://pythonprogramming.net/introduction-learn-python-3-tutorials/
+
+作者还建议，除了对 Python 熟悉掌握外，还可以了解下 Numpy，它是数学运算的重要模块，可以有助于你在后面 Python 环境中导入 Tensor 数据类型。
+
+Python3 安装地址：https://realpython.com/installing-python/
+
+PyCharm Community Edition（一个用于 Python 开发的完整 IDE，为实验设置一个新的 Python 虚拟环境）
+
+安装地址：https://www.jetbrains.com/pycharm/download/#section=windows
+
+   **Jupyter Notebook**
+
+是一个开源的 Web 应用程序，帮助用户创建和共享文档，包括 live code，方程，可视化，叙述文本。例如，数据清洗、数值模拟、统计建模、数据可视化、机器学习等。
+
+   **需要掌握的基本数学知识**
+
+在作者看来，数学是机器学习背后的重要基础。但重要的是，掌握主要概念并认识到这些数学方法的应用领域和局限性。
+他给出了三个课程链接，分别是：
+
+线性代数：https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
+概率基础和统计：https://www.edx.org/course/introduction-to-probability-0
+
+其他数学资源：https://explained.ai/matrix-calculus/index.html#sec4.5
+
+   **机器学习全貌**
+
+最后，还要通过一篇科普读物，了解整个机器学习全貌：https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/ch01.html
+
+**二、如何使用 Scikit-Learn 进行机器学习？**
+
+   **安装 Scikit-Learn**
+
+python pip install -U scikit-learn
+
+如果安装时遇到一些问题，可能是你更新到最新版本的 pip，所以在同一个文件夹内运行：
+
+python -m pip install --upgrade pip
+
+   **为什么是 Scikit-Learn？**
+
+Scikit-Learn 是机器学习任务中最完整、最成熟，且记录完整的库之一。它开箱即用，具有强大而先进的模型。
+
+   **端到端机器学习项目**
+
+Kaggle，作为机器学习和通用数据科学项目的首选平台，它提供了大量免费数据集，以及有趣的挑战和 ML 模型实验。
+
+   **线性回归**
+
+线性回归是最简单的机器学习形式，也是模型训练的起点。
+
+可以参看吴恩达的理论课程：https://www.youtube.com/watch?v=W46UTQ_JDPk&list=PLoR5VjrKytrCv-Vxnhp5UyS1UjZsXP0Kj&index=2
+
+  ** 分类**
+
+如果想要从不同的可能性中预测结果，分类则是最重要的机器学习任务之一。最简单的情况是二元分类问题。
+
+   **训练模型**
+
+作者列举了 ML 任务中训练模型的一些技术，在 Google Crash 教程中可以找到：
+
+梯度下降：https://developers.google.com/machine-learning/crash-course/reducing-loss/gradient-descent
+
+学习率：https://developers.google.com/machine-learning/crash-course/reducing-loss/learning-rate
+
+SGD：https://developers.google.com/machine-learning/crash-course/reducing-loss/stochastic-gradient-descent
+正则化：https://www.youtube.com/watch?v=Q81RR3yKn30
+
+   **支持向量机**
+是创建 ML 模型的另一种经典算法。
+除了理论解释外，还有更多实战策略：
+https://www.youtube.com/watch?v=g8D5YL6cOSE
+
+   **决策树**
+
+   **集成学习和随机森林** 集成学习（Ensemble Learning）的思路是利用了几款 ML 模型的所有不同特征、优劣势，以期得到最有可能性的预测结果。
+集成学习基础知识：
+https://www.youtube.com/watch?v=9VmKYwX_U7s
+随机森林最经典实践：
+https://www.youtube.com/watch?v=3kYujfDgmNk
+
+   **无监督学习** 涵盖了无监督学习的介绍、解释，以及与监督学习、强化学习之间的差别。
+
+关于涉及的两个重要技术：关联规则（Association Rules）和聚类，作者分别提供了示例和教程。
+
+**三、通过 TensorFlow 训练的神经网络**
+
+在本节中，作者主力推荐斯坦福大学深度学习课程以及其他网络教程，帮助学习者快速了解这些内容。其中包括 ANN、CNN、RNN 等不同种类的机器学习模型。实际上，作者花了很长时间去理解神经网络的理论和应用，包括阅读博客、官网论坛、学习路径。
+
+他给出了“三步走”的建议：
+   通过斯坦福大学教程了解神经网络的主要概念，不要过多担心一些数学解释，而要关注什么和为什么；
+   使用理论 + 教程 + 示例（如 RNN 理论 + RNN 教程 + RNN 示例），每次只深度探讨一个主题；
+   每探讨完一个主题，就回溯一遍斯坦福大学的课程。这种方式将帮助你完全理解所有公式，并将课程中提到的 “数学” 相关知识联系起来，触类旁通。
+
+作者表示，以上这种方式可根据需要重复多次，然后在你的头脑中构建一个良好的通用模型。斯坦福大学课程 PPT 地址：http://cs231n.stanford.edu/slides/2018/
+
+**为何选择 TensorFlow？**
+
+目前，TensorFlow 已经企业里实现机器学习算法的事实标准。在安装 TensorFlow 库之前，你只需在 Python 安装文件夹中打开一个终端并运行此命令：
+```
+pip install tensorflow
+```
+* ANN - 人工神经网络
+* CNN - 卷积神经网络
+* RNN - 递归神经网络
+* 训练网络：最佳实践
+* 自动编码
+* 强化学习
+
+以上细节就不一一细讲了。
+##### 四、其他资源
+除了上述内容之外，作者还收集了大量文章、网络应用程序、最佳实践、项目和存储库。
+* 机器学习项目
+* 工具
+* YouTube 频道
+* 博客以及，其他值得一看的网站
+
+作者最后表示，将在接下来的时间里对不同的主题进行扩充，包括：无监督学习、机器学习心态框架（如何像数据科学家一样思考）、使用 Pandas 进行数据处理和准备、特征选择、特色工程、扩展参数优化部分、Keras 库、TensorFlow 2.0、如何在 AWS、Azure 上部署模型等。
